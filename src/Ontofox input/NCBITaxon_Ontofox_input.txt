@@ -1,0 +1,135 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/ICEO/NCBITaxon_import_20190321.owl
+
+[Source ontology]
+NCBITaxon
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/NCBITaxon_358220 #Acidovorax sp. KKS102
+http://purl.obolibrary.org/obo/NCBITaxon_754345 #Actinobacillus pleuropneumoniae serovar 8
+http://purl.obolibrary.org/obo/NCBITaxon_754345 #Actinobacillus pleuropneumoniae serovar 8
+http://purl.obolibrary.org/obo/NCBITaxon_198107 #Azoarcus sp. CIB
+http://purl.obolibrary.org/obo/NCBITaxon_224308 #Bacillus subtilis subsp. subtilis str. 168
+http://purl.obolibrary.org/obo/NCBITaxon_817 #Bacteroides fragilis
+http://purl.obolibrary.org/obo/NCBITaxon_1073387 #Bacteroides fragilis HMW 615
+http://purl.obolibrary.org/obo/NCBITaxon_272559 #Bacteroides fragilis NCTC 9343
+http://purl.obolibrary.org/obo/NCBITaxon_820 #Bacteroides uniformis 
+http://purl.obolibrary.org/obo/NCBITaxon_340100 #Bordetella petrii DSM 12804
+http://purl.obolibrary.org/obo/NCBITaxon_340100 #Bordetella petrii DSM 12804
+http://purl.obolibrary.org/obo/NCBITaxon_340100 #Bordetella petrii DSM 12804
+http://purl.obolibrary.org/obo/NCBITaxon_340100 #Bordetella petrii DSM 12804
+http://purl.obolibrary.org/obo/NCBITaxon_46449 #Cloning vector pAM120
+http://purl.obolibrary.org/obo/NCBITaxon_1496 #Clostridium difficile
+http://purl.obolibrary.org/obo/NCBITaxon_272563 #Clostridium difficile 630
+http://purl.obolibrary.org/obo/NCBITaxon_742013 #Delftia sp. Cs1-4
+http://purl.obolibrary.org/obo/NCBITaxon_37734 #Enterococcus casseliflavus
+http://purl.obolibrary.org/obo/NCBITaxon_1351 #Enterococcus faecalis
+http://purl.obolibrary.org/obo/NCBITaxon_1351 #Enterococcus faecalis
+http://purl.obolibrary.org/obo/NCBITaxon_1158677 #Enterococcus faecalis DS16
+http://purl.obolibrary.org/obo/NCBITaxon_1352 #Enterococcus faecium
+http://purl.obolibrary.org/obo/NCBITaxon_565664 #Enterococcus faecium C68
+http://purl.obolibrary.org/obo/NCBITaxon_565664 #Enterococcus faecium C68
+http://purl.obolibrary.org/obo/NCBITaxon_565664 #Enterococcus faecium C68
+http://purl.obolibrary.org/obo/NCBITaxon_562 #Escherichia coli
+http://purl.obolibrary.org/obo/NCBITaxon_562 #Escherichia coli
+http://purl.obolibrary.org/obo/NCBITaxon_714962 #Escherichia coli IHE3034
+http://purl.obolibrary.org/obo/NCBITaxon_727 #Haemophilus influenzae
+http://purl.obolibrary.org/obo/NCBITaxon_235279 #Helicobacter hepaticus ATCC 51449
+http://purl.obolibrary.org/obo/NCBITaxon_570508 #Helicobacter pylori P12
+http://purl.obolibrary.org/obo/NCBITaxon_484021 #Klebsiella pneumoniae NTUH-K2044
+http://purl.obolibrary.org/obo/NCBITaxon_684738 #Lactococcus lactis subsp. lactis KF147
+http://purl.obolibrary.org/obo/NCBITaxon_400673 #Legionella pneumophila str. Corby
+http://purl.obolibrary.org/obo/NCBITaxon_400673 #Legionella pneumophila str. Corby
+http://purl.obolibrary.org/obo/NCBITaxon_1639 #Listeria monocytogenes
+http://purl.obolibrary.org/obo/NCBITaxon_765698 #Mesorhizobium ciceri biovar biserrulae WSM1271
+http://purl.obolibrary.org/obo/NCBITaxon_765698 #Mesorhizobium ciceri biovar biserrulae WSM1271
+http://purl.obolibrary.org/obo/NCBITaxon_765698 #Mesorhizobium ciceri biovar biserrulae WSM1271
+http://purl.obolibrary.org/obo/NCBITaxon_935546 #Mesorhizobium loti NZP2037
+http://purl.obolibrary.org/obo/NCBITaxon_935546 #Mesorhizobium loti NZP2037
+http://purl.obolibrary.org/obo/NCBITaxon_935546 #Mesorhizobium loti NZP2037
+http://purl.obolibrary.org/obo/NCBITaxon_935546 #Mesorhizobium loti NZP2037
+http://purl.obolibrary.org/obo/NCBITaxon_347258 #Mycoplasma agalactiae 5632
+http://purl.obolibrary.org/obo/NCBITaxon_347258 #Mycoplasma agalactiae 5632
+http://purl.obolibrary.org/obo/NCBITaxon_347258 #Mycoplasma agalactiae 5632
+http://purl.obolibrary.org/obo/NCBITaxon_496833 #Mycoplasma fermentans PG18
+http://purl.obolibrary.org/obo/NCBITaxon_1075089 #Pasteurella multocida 36950
+http://purl.obolibrary.org/obo/NCBITaxon_38293 #Photobacterium damselae
+http://purl.obolibrary.org/obo/NCBITaxon_584 #Proteus mirabilis
+http://purl.obolibrary.org/obo/NCBITaxon_584 #Proteus mirabilis
+http://purl.obolibrary.org/obo/NCBITaxon_584 #Proteus mirabilis
+http://purl.obolibrary.org/obo/NCBITaxon_584 #Proteus mirabilis
+http://purl.obolibrary.org/obo/NCBITaxon_584 #Proteus mirabilis
+http://purl.obolibrary.org/obo/NCBITaxon_584 #Proteus mirabilis
+http://purl.obolibrary.org/obo/NCBITaxon_584 #Proteus mirabilis
+http://purl.obolibrary.org/obo/NCBITaxon_529507 #Proteus mirabilis HI4320
+http://purl.obolibrary.org/obo/NCBITaxon_529507 #Proteus mirabilis HI4320
+http://purl.obolibrary.org/obo/NCBITaxon_585 #Proteus vulgaris
+http://purl.obolibrary.org/obo/NCBITaxon_663916 #Providencia alcalifaciens Ban1
+http://purl.obolibrary.org/obo/NCBITaxon_587 #Providencia rettgeri
+http://purl.obolibrary.org/obo/NCBITaxon_287 #Pseudomonas aeruginosa
+http://purl.obolibrary.org/obo/NCBITaxon_287 #Pseudomonas aeruginosa
+http://purl.obolibrary.org/obo/NCBITaxon_1450699 #Pseudomonas aeruginosa C
+http://purl.obolibrary.org/obo/NCBITaxon_1450699 #Pseudomonas aeruginosa C
+http://purl.obolibrary.org/obo/NCBITaxon_208963 #Pseudomonas aeruginosa UCBPP-PA14
+http://purl.obolibrary.org/obo/NCBITaxon_1301098 #Pseudomonas knackmussii B13
+http://purl.obolibrary.org/obo/NCBITaxon_319 #Pseudomonas syringae pv. phaseolicola
+http://purl.obolibrary.org/obo/NCBITaxon_96344 #Ralstonia oxalatica
+http://purl.obolibrary.org/obo/NCBITaxon_54736 #Salmonella bongori
+http://purl.obolibrary.org/obo/NCBITaxon_28901 #Salmonella enterica
+http://purl.obolibrary.org/obo/NCBITaxon_209261 #Salmonella enterica subsp. enterica serovar Typhi str. Ty2
+http://purl.obolibrary.org/obo/NCBITaxon_24 #Shewanella putrefaciens
+http://purl.obolibrary.org/obo/NCBITaxon_1280 #Staphylococcus aureus
+http://purl.obolibrary.org/obo/NCBITaxon_1280 #Staphylococcus aureus
+http://purl.obolibrary.org/obo/NCBITaxon_158878 #Staphylococcus aureus subsp. aureus Mu50
+http://purl.obolibrary.org/obo/NCBITaxon_522262 #Staphylococcus rostri
+http://purl.obolibrary.org/obo/NCBITaxon_1311 #Streptococcus agalactiae
+http://purl.obolibrary.org/obo/NCBITaxon_208435 #Streptococcus agalactiae 2603V/R
+http://purl.obolibrary.org/obo/NCBITaxon_211110 #Streptococcus agalactiae NEM316
+http://purl.obolibrary.org/obo/NCBITaxon_211110 #Streptococcus agalactiae NEM316
+http://purl.obolibrary.org/obo/NCBITaxon_45634 #Streptococcus cristatus
+http://purl.obolibrary.org/obo/NCBITaxon_1334 #Streptococcus dysgalactiae
+http://purl.obolibrary.org/obo/NCBITaxon_553482 #Streptococcus equi subsp. equi 4047
+http://purl.obolibrary.org/obo/NCBITaxon_150055 #Streptococcus lutetiensis
+http://purl.obolibrary.org/obo/NCBITaxon_1303 #Streptococcus oralis
+http://purl.obolibrary.org/obo/NCBITaxon_1348 #Streptococcus parauberis
+http://purl.obolibrary.org/obo/NCBITaxon_1313 #Streptococcus pneumoniae
+http://purl.obolibrary.org/obo/NCBITaxon_1313 #Streptococcus pneumoniae
+http://purl.obolibrary.org/obo/NCBITaxon_1313 #Streptococcus pneumoniae
+http://purl.obolibrary.org/obo/NCBITaxon_1313 #Streptococcus pneumoniae
+http://purl.obolibrary.org/obo/NCBITaxon_1314 #Streptococcus pyogenes
+http://purl.obolibrary.org/obo/NCBITaxon_1314 #Streptococcus pyogenes
+http://purl.obolibrary.org/obo/NCBITaxon_1314 #Streptococcus pyogenes
+http://purl.obolibrary.org/obo/NCBITaxon_1314 #Streptococcus pyogenes
+http://purl.obolibrary.org/obo/NCBITaxon_1582354 #Streptococcus pyogenes 2812A conjugative prophage phi1207.3
+http://purl.obolibrary.org/obo/NCBITaxon_1304 #Streptococcus salivarius
+http://purl.obolibrary.org/obo/NCBITaxon_1304 #Streptococcus salivarius
+http://purl.obolibrary.org/obo/NCBITaxon_1307 #Streptococcus suis
+http://purl.obolibrary.org/obo/NCBITaxon_1307 #Streptococcus suis
+http://purl.obolibrary.org/obo/NCBITaxon_1307 #Streptococcus suis
+http://purl.obolibrary.org/obo/NCBITaxon_391295 #Streptococcus suis 05ZYH33
+http://purl.obolibrary.org/obo/NCBITaxon_1308 #Streptococcus thermophilus
+http://purl.obolibrary.org/obo/NCBITaxon_1308 #Streptococcus thermophilus
+http://purl.obolibrary.org/obo/NCBITaxon_593588 #Vibrio cholerae MJ-1236
+http://purl.obolibrary.org/obo/NCBITaxon_127906 #Vibrio cholerae O1
+http://purl.obolibrary.org/obo/NCBITaxon_1175270 #Vibrio cholerae O1 str. VC833
+http://purl.obolibrary.org/obo/NCBITaxon_45888 #Vibrio cholerae O139
+http://purl.obolibrary.org/obo/NCBITaxon_663915 #Vibrio cholerae Ban5
+http://purl.obolibrary.org/obo/NCBITaxon_663958 #Vibrio cholerae Ind4
+http://purl.obolibrary.org/obo/NCBITaxon_663914 #Vibrio cholerae Ind4
+http://purl.obolibrary.org/obo/NCBITaxon_663913 #Vibrio cholerae Mex1
+http://purl.obolibrary.org/obo/NCBITaxon_345072 #Vibrio cholerae MO10 
+http://purl.obolibrary.org/obo/NCBITaxon_1175266 #Vibrio cholerae O1 str. VC504 
+http://purl.obolibrary.org/obo/NCBITaxon_563774 #Vibrio fluvialis Ind1
+http://purl.obolibrary.org/obo/NCBITaxon_633 #Yersinia pseudotuberculosis
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/NCBITaxon_2 #Bacteria
+subClassOf http://purl.obolibrary.org/obo/BFO_0000040
+
+[Source term retrieval setting]
+includeAllIntermediates
+
+[Source annotation URIs]
+includeAllAxioms
+
+[Source annotation URIs to be excluded]

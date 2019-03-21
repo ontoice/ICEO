@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ICEO/PR_import.owl" uri="imports/PR_import.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ICEO/OGG_Bru_import.owl" uri="imports/OGG-Bru_import.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ICEO/NCBITaxon_import.owl" uri="imports/NCBITaxon_import.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ICEO/BFO_import.owl" uri="imports/BFO_import.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ICEO/OGG_Bru_import.owl" uri="OGG-Bru_import.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ICEO/RO_import.owl" uri="imports/RO_import.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ICEO/RO_import.owl" uri="imports/RO_imports.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1553197564505" name="http://purl.obolibrary.org/obo/2019/1/ICEO2/" uri="iceo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553201077307" name="http://purl.obolibrary.org/obo/2019/1/ICEO2/" uri="iceo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553201077307" name="http://purl.obolibrary.org/obo/ICEO/BFO_import.owl" uri="imports/BFO_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553201077307" name="http://purl.obolibrary.org/obo/ICEO/NCBITaxon_import.owl" uri="imports/NCBITaxon_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553201077307" name="http://purl.obolibrary.org/obo/ICEO/OGG_Bru_import.owl" uri="imports/OGG-Bru_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553201077307" name="http://purl.obolibrary.org/obo/ICEO/PR_import.owl" uri="imports/PR_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553201077307" name="http://purl.obolibrary.org/obo/ICEO/RO_import.owl" uri="imports/RO_imports.owl"/>
     </group>
 </catalog>

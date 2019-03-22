@@ -528,7 +528,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000005 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000005">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>The SXT/R391 family was defined by &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/16530834&quot;&gt;Burrus et al (2006)&lt;/a&gt;.They proposed that any ICE that encodes an integrase gene closely related to&lt;em&gt; int&lt;/em&gt;SXT and that integrates into &lt;em&gt;prfC&lt;/em&gt; be considered part of the SXT/R391 family of ICEs. In addition  the tra genes, which encode the ICE conjugation apparatus, are also a defining feature of this family of ICEs. However, there are some exceptions for those that share a syntenic ‘core’ structure and features but have a different integrase</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">SXT/R391 family ICE</rdfs:label>
@@ -1355,7 +1355,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000071 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000071">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>The Tn&lt;em&gt;4371&lt;/em&gt; family was defined by &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/19941653&quot;&gt;Ryan et al (2009)&lt;/a&gt;. propose that\n  any ICE that encodes an integrase gene closely related to \n  &lt;em&gt;int&lt;/em&gt;Tn&lt;em&gt;4371&lt;/em&gt;, defined as over 70% protein homology and that \n  has similar maintenance and transfer genes be considered \npart of the Tn&lt;em&gt;4371&lt;/em&gt; family of ICEs. However, we lessen the protein homology to 60% for those similar in sequence.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">Tn4371 family ICE</rdfs:label>
@@ -1366,7 +1366,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000072 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000072">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>The CTnDOT/ERL family was described in &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/19941653&quot;&gt;Whittle et al (2002)&lt;/a&gt;. We classified any ICE that encodes an integrase gene closely related to  &lt;em&gt; intDOT&lt;/em&gt;, defined as over 60% protein homology and that  that has significant sequence  alignment and syntenic &apos;core&apos; structure in the CTnDOT/ERL family of ICEs.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">CTnDOT/ERL family ICE</rdfs:label>
@@ -1377,7 +1377,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000073 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000073">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>ICE&lt;em&gt;clc&lt;/em&gt;(B13) is a well studied ICE. We selected it as a reference and defined  ICE&lt;em&gt;clc &lt;/em&gt; family. We classified any ICE that encodes an integrase gene closely related to  &lt;em&gt; intB13&lt;/em&gt;;, defined as over 60% protein homology and that   has significant sequence  \nalignment and syntenic &apos;core&apos; structure into the ICE&lt;em&gt;clc &lt;/em&gt;family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEclc family ICE</rdfs:label>
@@ -1388,7 +1388,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000074 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000074">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>ICE&lt;em&gt;Bs1&lt;/em&gt; is a well studied ICE. We selected it as a reference and defined  &lt;em&gt;ICE&lt;em&gt;Bs1&lt;/em&gt; &lt;/em&gt;family. We classified any ICE that encodes an integrase gene closely related to   &lt;em&gt;int&lt;/em&gt;(ICE&lt;em&gt;Bs1)&lt;/em&gt;, defined as over 60% protein homology and that has significant sequence  alignment and syntenic &apos;core&apos; structure into the ICE&lt;em&gt;clc &lt;/em&gt;family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEBs1 family ICE</rdfs:label>
@@ -1399,7 +1399,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000075 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000075">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>ICE&lt;em&gt;Hin&lt;/em&gt;1056 is a well studied ICE. We selected it as a reference and difined ICE&lt;em&gt;Hin&lt;/em&gt;1056 family. We classified any ICE that encodes an integrase gene closely related to   &lt;em&gt;int&lt;/em&gt;(&lt;em&gt;ICE&lt;em&gt;Hin&lt;/em&gt;1056)&lt;/em&gt;, defined as over 60% protein homology and that  that has significant sequence  alignment and syntenic &apos;core&apos; structure into the ICE&lt;em&gt;Hin&lt;/em&gt;1056 family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEHin1056 family ICE</rdfs:label>
@@ -1410,7 +1410,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000076 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000076">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>PAPI-1 is a well studied ICE. We selected it as a reference and defined PAPI-1 family. We classified any ICE that encodes an integrase gene closely related to   &lt;em&gt;int&lt;/em&gt;(&lt;em&gt;PAPI-1)&lt;/em&gt;, defined as over 60% protein homology and that that has significant sequence  alignment and syntenic &apos;core&apos; structure into the PAPI-1 family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">PAPI-1 family ICE</rdfs:label>
@@ -1421,7 +1421,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000077 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000077">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>ICE&lt;em&gt;Ml&lt;/em&gt;Sym(R7A) is a well studied ICE. We classified ICE that that has significant sequence  alignment and syntenic &apos;core&apos; structure with ICE&lt;em&gt;Ml&lt;/em&gt;Sym(R7A)  into the ICE&lt;em&gt;Ml&lt;/em&gt;Sym(R7A) family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEMlSym(R7A) family ICE</rdfs:label>
@@ -1432,7 +1432,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000078 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000078">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>ICE&lt;em&gt;St1&lt;/em&gt; is a well studied ICE. We selected it as a reference and defined ICE&lt;em&gt;St1&lt;/em&gt; family. We classified any ICE that encodes an integrase gene closely related to &lt;em&gt;int&lt;/em&gt;(&lt;em&gt;ICE&lt;em&gt;St1&lt;/em&gt;) &lt;/em&gt;or &lt;em&gt;int(ICESpn8140)&lt;/em&gt;, defined as over 60% protein homology and that   that has significant sequence  alignment and syntenic &apos;core&apos; structure into the ICE&lt;em&gt;St1&lt;/em&gt; family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICESt1 family ICE</rdfs:label>
@@ -1443,7 +1443,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000079 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000079">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>SPI-7 is a well studied ICE. We selected it as a reference and defined SPI-7 family. We classified any ICE that encodes an integrase gene closely related to &lt;em&gt;int(SPI-7)&lt;/em&gt;, defined as over 60% protein homology and that that has significant sequence  alignment and syntenic &apos;core&apos; structure into the this &lt;em&gt;&lt;/em&gt; family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">SPI-7 family ICE</rdfs:label>
@@ -1454,7 +1454,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000080 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000080">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>ICE&lt;em&gt;6013&lt;/em&gt; was characterized by &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/19648240&quot;&gt;Smyth et al&lt;/a&gt;. ICEs in ICE&lt;em&gt;6013&lt;/em&gt; family are defined by the following structure based on the figure from Smyth et al.&lt;br /&gt;\n&lt;img src=&quot;images/ICE6013.png&quot; width=&quot;620&quot; height=&quot;183&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt;</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICE6013 family ICE</rdfs:label>
@@ -1465,7 +1465,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000081 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000081">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We classified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with Tn&lt;em&gt;GBS1&lt;/em&gt;  into the Tn&lt;em&gt;GBS1&lt;/em&gt; family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">TnGBS1 family ICE</rdfs:label>
@@ -1476,7 +1476,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000082 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000082">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>Tn&lt;em&gt;5253&lt;/em&gt;  is a composite structure of two conjugative transposons, Tn&lt;em&gt;5251&lt;/em&gt; and Tn&lt;em&gt;5252&lt;/em&gt;. We selected it as a reference and defined Tn&lt;em&gt;5253&lt;/em&gt; family. We classified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with Tn&lt;em&gt;5253&lt;/em&gt;  into the Tn&lt;em&gt;5253&lt;/em&gt; family, including Tn&lt;em&gt;5252&lt;/em&gt; and Tn&lt;em&gt;5252&lt;/em&gt;-like ICEs.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">Tn5253 family ICE</rdfs:label>
@@ -1487,7 +1487,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000083 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000083">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>ICE&lt;em&gt;Sa&lt;/em&gt;2603 is a well studied ICE. We selected it as a reference and defined ICE&lt;em&gt;Sa&lt;/em&gt;2603 family. We classified any ICE that encodes an integrase gene closely related to &lt;em&gt;int(ICE&lt;em&gt;Sa&lt;/em&gt;2603)&lt;/em&gt;, defined as over 60% protein homology and that   has significant sequence  alignment and syntenic &apos;core&apos; structure into the this &lt;em&gt;&lt;/em&gt; family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICESa2603 family ICE</rdfs:label>
@@ -1498,7 +1498,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000084 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000084">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We selected ICE&lt;em&gt;Ye1&lt;/em&gt; as a reference and defined ICE&lt;em&gt;Ye1&lt;/em&gt; family. We classified any ICE that encodes an integrase gene closely related to &lt;em&gt;int(ICE&lt;em&gt;Ye1&lt;/em&gt;)&lt;/em&gt;, defined as over 60% protein homology and that   has significant sequence  alignment and syntenic &apos;core&apos; structure into the this   family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEYe1 family ICE</rdfs:label>
@@ -1509,7 +1509,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000085 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000085">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We selected 10270-RD.2 as a reference and defined 10270-RD.2 family. We calssified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with 10270-RD.2 into this  family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg2 database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">10270-RD.2 family ICE</rdfs:label>
@@ -1520,7 +1520,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000086 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000086">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We selected Tn&lt;em&gt;1207.3&lt;/em&gt; as a reference and defined Tn&lt;em&gt;1207.3&lt;/em&gt; family. We calssified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with Tn&lt;em&gt;1207.3&lt;/em&gt; into this  family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">Tn1207.3 family ICE</rdfs:label>
@@ -1531,7 +1531,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000087 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000087">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We selected Tn&lt;em&gt;1806&lt;/em&gt; as a reference and defined Tn&lt;em&gt;1806&lt;/em&gt; family. We classified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with Tn&lt;em&gt;1806&lt;/em&gt; into this  family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">Tn1806 family ICE</rdfs:label>
@@ -1542,7 +1542,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000088 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000088">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>ICEA(5632)-I is a well studied ICE. We selected ICEA(5632)-I as a reference and defined ICEA5632 family. We classified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with ICEA(5632)-I into the this family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEA5632 family ICE</rdfs:label>
@@ -1553,7 +1553,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000089 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000089">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>ICEF-I is a well studied ICE. We selected ICEF-I as a reference and defined ICEF-I/II family. We classified ICE that has sequence samilarity with ICEF-I into this family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEF-I/II family ICE</rdfs:label>
@@ -1564,7 +1564,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000090 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000090">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We selected ICEA(PG2) as a reference and defined ICEA(PG2) family. We calssified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with ICEA(PG2) into this  family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEAPG2 family ICE</rdfs:label>
@@ -1575,7 +1575,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000091 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000091">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We selected ICEM as a reference and defined ICEM family. We classified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with ICEM into this  family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEM family ICE</rdfs:label>
@@ -1606,7 +1606,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000093 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000093">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We selected 10270-RD.1 as a reference and defined 10270-RD.1 family. We classified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with 10270-RD.1 into this  family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">10270-RD.1 family ICE</rdfs:label>
@@ -1617,7 +1617,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000094 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000094">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We selected Tn&lt;em&gt;5801&lt;/em&gt; as a reference and defined Tn&lt;em&gt;5801&lt;/em&gt; family. We classified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with Tn&lt;em&gt;5801&lt;/em&gt; into this  family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">Tn5801 family ICE</rdfs:label>
@@ -1628,7 +1628,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000095 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000095">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We selected Sp23F_PPI-1 as a reference and defined PPI-1 family. We classified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with Sp23F_PPI-1 into the this  family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">PPI-1 family ICE</rdfs:label>
@@ -1639,7 +1639,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000096 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000096">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>We selected ICEF-IIIA1(M64) as a reference and defined ICEF-III family. We classified ICE that has significant sequence  alignment and syntenic &apos;core&apos; structure with ICEF-IIIA1(M64) into this  family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEF-III family ICE</rdfs:label>
@@ -2024,7 +2024,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_54736"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000306"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESb1</rdfs:label>
@@ -2036,10 +2036,11 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000122">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000080"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1280"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000309"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">Tn6012</rdfs:label>
@@ -2051,10 +2052,11 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000123">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000080"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1280"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000310"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICE6013</rdfs:label>
@@ -2084,7 +2086,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1313"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000314"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICE6094</rdfs:label>
@@ -2129,7 +2131,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1334"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000312"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESde3396</rdfs:label>
@@ -2144,7 +2146,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1307"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000361"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESsu32457</rdfs:label>
@@ -2159,7 +2161,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1311"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000311"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESag37</rdfs:label>
@@ -2312,7 +2314,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000141 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000141">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>ICE&lt;em&gt;Kp1&lt;/em&gt; is a well studied ICE. We selected it as a reference and defined ICE&lt;em&gt;Kp1&lt;/em&gt; family. We classified any ICE that encodes an integrase gene closely related to &lt;em&gt;int(ICE&lt;em&gt;Kp1&lt;/em&gt;)&lt;/em&gt;, defined as over 60% protein homology and that   has significant sequence  alignment and syntenic &apos;core&apos; structure into the this &lt;em&gt;&lt;/em&gt; family.</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">ICEKp1 family ICE</rdfs:label>
@@ -2538,7 +2540,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1314"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000317"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESpy009</rdfs:label>
@@ -2553,7 +2555,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_633"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000365"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">YAPI</rdfs:label>
@@ -2568,7 +2570,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1314"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000331"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">Tn1207.3</rdfs:label>
@@ -2583,7 +2585,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1314"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000315"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESp1108</rdfs:label>
@@ -2669,8 +2671,8 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000163 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000163">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
-        <rdfs:label xml:lang="en">Unclasscified family ICE</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_820"/>
+        <rdfs:label xml:lang="en">Bacteroides uniformis WH207</rdfs:label>
     </owl:Class>
     
 
@@ -2678,7 +2680,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000164 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000164">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:label xml:lang="en">TnGBS2 (genomic island X)</rdfs:label>
     </owl:Class>
     
@@ -2687,7 +2689,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000165 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000165">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2702,7 +2704,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000166 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000166">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2717,7 +2719,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000167 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000167">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2732,7 +2734,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000168 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000168">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:label xml:lang="en">Tn6098</rdfs:label>
     </owl:Class>
     
@@ -2741,7 +2743,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000169 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000169">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2756,7 +2758,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000170 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000170">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2771,11 +2773,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000171 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000171">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_820"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">CTnBST</rdfs:label>
@@ -2786,11 +2788,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000172 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000172">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_28901"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000308"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">CTnscr94</rdfs:label>
@@ -2801,11 +2803,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000173 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000173">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_37734"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000302"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">Tn6000 (EfcTn1)</rdfs:label>
@@ -2816,11 +2818,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000174 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000174">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_562"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000305"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICEEc2</rdfs:label>
@@ -2831,7 +2833,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000175 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000175">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2846,7 +2848,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000176 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000176">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2861,11 +2863,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000177 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000177">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1351"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000303"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">Tn1549</rdfs:label>
@@ -2876,11 +2878,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000178 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000178">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_565664"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000304"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">Tn5386</rdfs:label>
@@ -2891,7 +2893,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000179 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000179">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2906,11 +2908,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000180 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000180">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1314"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000316"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESp2905</rdfs:label>
@@ -2921,7 +2923,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000181 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000181">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2936,7 +2938,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000182 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000182">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2951,11 +2953,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000183 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000183">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1496"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000289"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">Tn6194-like</rdfs:label>
@@ -2966,7 +2968,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000185 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000185">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -2981,7 +2983,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000186 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000186">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -3016,7 +3018,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000188 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000188">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -3031,7 +3033,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000189 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000189">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -3118,7 +3120,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000196 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000196">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -3336,7 +3338,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000212 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000212">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -3351,7 +3353,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000213 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000213">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -3366,7 +3368,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000214 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000214">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
@@ -3381,11 +3383,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000215 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000215">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_150055"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000313"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESluvan</rdfs:label>
@@ -3396,11 +3398,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000216 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000216">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1314"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000330"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESp1116</rdfs:label>
@@ -3411,11 +3413,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000217 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000217">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1304"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000334"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICE_SsaF1-4_fda</rdfs:label>
@@ -3426,11 +3428,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000218 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000218">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1304"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000344"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICE_SsaF4-2_fda</rdfs:label>
@@ -3441,11 +3443,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000219 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000219">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1307"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000362"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESsu05SC260</rdfs:label>
@@ -3456,11 +3458,11 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000220 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000220">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000163"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000020"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1307"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000364"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">ICESsuNC28</rdfs:label>
@@ -3810,7 +3812,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000255 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000255">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000140"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000138"/>
         <obo:IAO_0000115>The Tn&lt;em&gt;916&lt;/em&gt; family was defined by &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/19464182&quot;&gt;Roberts et al (2009)&lt;/a&gt;. Elements belonging to   the Tn916 family are defined by the following criteria: they must have the general organization shown in the following figure based on the figure from Roberts et al, and they must have a core region (conjugation and regulation module) that is similar in sequence and structure to the original Tn&lt;em&gt;916&lt;/em&gt; at the DNA level.  Exceptions are some conjugative transposons, such as Tn&lt;em&gt;1549&lt;/em&gt; which have been previously classified in this family and those with a high degree of protein  similarity as described in corresponding references. &lt;br /&gt; &lt;img src=&quot;images/Tn916.PNG&quot; width=&quot;620&quot; height=&quot;183&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt;</obo:IAO_0000115>
         <obo:IAO_0000119>ICEberg database</obo:IAO_0000119>
         <rdfs:label xml:lang="en">Tn916 family ICE</rdfs:label>
@@ -4098,6 +4100,16 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000289 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000289">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1496"/>
+        <obo:IAO_0000118>Clostridium difficile CII7</obo:IAO_0000118>
+        <rdfs:label xml:lang="en">Clostridium difficile strain CII7</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/ICEO_0000291 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000291">
@@ -4204,6 +4216,151 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000302 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000302">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_37734"/>
+        <rdfs:label xml:lang="en">Enterococcus casseliflavus 664.1H1</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000303 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000303">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1351"/>
+        <rdfs:label xml:lang="en">Enterococcus faecalis BM4382</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000304 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000304">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1352"/>
+        <rdfs:label xml:lang="en">Enterococcus faecium D344R</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000305 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000305">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_562"/>
+        <rdfs:label xml:lang="en">Escherichia coli  BEN374</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000306 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000306">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_54736"/>
+        <rdfs:label xml:lang="en">Salmonella bongori CEIM46082</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000307 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000307">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_59201"/>
+        <rdfs:label xml:lang="en">Salmonella enterica subsp. enterica serovar Senftenberg</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000308 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000308">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000307"/>
+        <obo:IAO_0000118>Salmonella enterica subsp. enterica serovar Senftenberg, strain 5494-57</obo:IAO_0000118>
+        <rdfs:label xml:lang="en">Salmonella enterica subsp. enterica serovar Senftenberg, 5494-57</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000309 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000309">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1280"/>
+        <rdfs:label xml:lang="en">Staphylococcus aureus JCSC6826</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000310 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000310">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1280"/>
+        <rdfs:label xml:lang="en">Staphylococcus aureus HDG2</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000311 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000311">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1311"/>
+        <rdfs:label xml:lang="en">Streptococcus agalactiae Sag37</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000312 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000312">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1334"/>
+        <rdfs:label xml:lang="en">Streptococcus dysgalactiae subsp. equisimilis NS3396</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000313 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000313">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_150055"/>
+        <rdfs:label xml:lang="en">Streptococcus lutetiensis 5-F9</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000314 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000314">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1313"/>
+        <rdfs:label xml:lang="en">Streptococcus pneumoniae Pn19</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000315 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000315">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1314"/>
+        <rdfs:label xml:lang="en">Streptococcus pyogenes C1</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000316 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000316">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1314"/>
+        <rdfs:label xml:lang="en">Streptococcus pyogenes iB21</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000317 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000317">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1314"/>
+        <rdfs:label xml:lang="en">Streptococcus pyogenes MB56Spyo009</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/ICEO_0000318 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000318">
@@ -4285,11 +4442,47 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000330 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000330">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1314"/>
+        <rdfs:label xml:lang="en">Streptococcus pyogenes strain A-3</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000331 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000331">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1314"/>
+        <rdfs:label xml:lang="en">Streptococcus pyogenes 2812A</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000334 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000334">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1304"/>
+        <rdfs:label xml:lang="en">Streptococcus salivarius strain F1-4</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/ICEO_0000343 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000343">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
         <rdfs:label xml:lang="en">mating pair formation component role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000344 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000344">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1304"/>
+        <rdfs:label xml:lang="en">Streptococcus salivarius strain F4-2</rdfs:label>
     </owl:Class>
     
 
@@ -4475,6 +4668,42 @@
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label xml:lang="en">Tn6198</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000361 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000361">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1307"/>
+        <rdfs:label xml:lang="en">Streptococcus suis 32457</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000362 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000362">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1307"/>
+        <rdfs:label xml:lang="en">Streptococcus suis 05SC260</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000364 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000364">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1307"/>
+        <rdfs:label xml:lang="en">Streptococcus suis strain nc286A7</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000365 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000365">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_633"/>
+        <rdfs:label xml:lang="en">Yersinia pseudotuberculosis 32777</rdfs:label>
     </owl:Class>
     
 

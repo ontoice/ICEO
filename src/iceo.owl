@@ -4544,19 +4544,10 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/ICEO_0000351 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000351">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
-        <rdfs:label xml:lang="en">DNA</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/ICEO_0000352 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000352">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000351"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000350"/>
@@ -4572,7 +4563,7 @@
     <!-- http://purl.obolibrary.org/obo/ICEO_0000353 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ICEO_0000353">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ICEO_0000351"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
         <obo:IAO_0000118>dsDNA</obo:IAO_0000118>
         <rdfs:label xml:lang="en">double-stranded DNA</rdfs:label>
     </owl:Class>

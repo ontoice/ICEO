@@ -12,10 +12,10 @@
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/2019/1/ICEO">
+        <dc:description>A biological ontology to standardize and integrate integrative and conjugative element (ICE) information and to support computer-assisted reasoning.</dc:description>
         <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</owl:versionInfo>
         <rdfs:comment>http://creativecommons.org/licenses/by/4.0/</rdfs:comment>
         <rdfs:isDefinedBy>Meng LIU</rdfs:isDefinedBy>
-        <dc:description>An ontology to standardize and integrate ICE information and to support computer-assisted reasoning.</dc:description>
         <rdfs:comment>This is an ICE ontology 1.0</rdfs:comment>
     </owl:Ontology>
     

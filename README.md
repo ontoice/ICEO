@@ -1,7 +1,7 @@
 # ICEO
 A biological ontology to standardize and integrate integrative and conjugative element (ICE) information and to support computer-assisted reasoning.
 
-[This GitHub website] (https://github.com/ontoice/ICEO) is the home page of ICEO.
+[This GitHub website](https://github.com/ontoice/ICEO) is the home page of ICEO.
 
 ## Download
 Use the following URI to download this ontology

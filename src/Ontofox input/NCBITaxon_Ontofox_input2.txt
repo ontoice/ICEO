@@ -1,0 +1,82 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/ICEO/NCBITaxon_import_2.owl
+
+[Source ontology]
+NCBITaxon
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/NCBITaxon_100226 #Streptomyces coelicolor A3(2)
+http://purl.obolibrary.org/obo/NCBITaxon_1068978 #Amycolatopsis methanolica NCIB 11946
+http://purl.obolibrary.org/obo/NCBITaxon_1117645 #Elizabethkingia anophelis
+http://purl.obolibrary.org/obo/NCBITaxon_1158627 #Enterococcus faecalis CH19
+http://purl.obolibrary.org/obo/NCBITaxon_1158660 #Enterococcus faecalis CH116
+http://purl.obolibrary.org/obo/NCBITaxon_1175293 #Vibrio cholerae non-O1/non-O139 str. VC998
+http://purl.obolibrary.org/obo/NCBITaxon_127906 #Vibrio cholerae O1
+http://purl.obolibrary.org/obo/NCBITaxon_1280 #Staphylococcus aureus
+http://purl.obolibrary.org/obo/NCBITaxon_1305 #Streptococcus sanguinis
+http://purl.obolibrary.org/obo/NCBITaxon_1307 #Streptococcus suis
+http://purl.obolibrary.org/obo/NCBITaxon_1311 #Streptococcus agalactiae
+http://purl.obolibrary.org/obo/NCBITaxon_1313 #Streptococcus pneumoniae
+http://purl.obolibrary.org/obo/NCBITaxon_1314 #Streptococcus pyogenes
+http://purl.obolibrary.org/obo/NCBITaxon_1316932 #Mannheimia haemolytica M42548
+http://purl.obolibrary.org/obo/NCBITaxon_1334 #Streptococcus dysgalactiae
+http://purl.obolibrary.org/obo/NCBITaxon_1338 #Streptococcus intermedius
+http://purl.obolibrary.org/obo/NCBITaxon_1351 #Enterococcus faecalis
+http://purl.obolibrary.org/obo/NCBITaxon_1352 #Enterococcus faecium
+http://purl.obolibrary.org/obo/NCBITaxon_1358 #Lactococcus lactis
+http://purl.obolibrary.org/obo/NCBITaxon_146923 #Streptomyces parvulus
+http://purl.obolibrary.org/obo/NCBITaxon_1502 #Clostridium perfringens
+http://purl.obolibrary.org/obo/NCBITaxon_1689868 #Shewanella sp. Sh95
+http://purl.obolibrary.org/obo/NCBITaxon_1889 #Streptomyces ambofaciens
+http://purl.obolibrary.org/obo/NCBITaxon_1904 #Streptomyces cyaneus
+http://purl.obolibrary.org/obo/NCBITaxon_1907 #Streptomyces glaucescens
+http://purl.obolibrary.org/obo/NCBITaxon_1911 #Streptomyces griseus
+http://purl.obolibrary.org/obo/NCBITaxon_211110 #Streptococcus agalactiae NEM316
+http://purl.obolibrary.org/obo/NCBITaxon_221589 #Ralstonia sp. JS705
+http://purl.obolibrary.org/obo/NCBITaxon_24 #Shewanella putrefaciens
+http://purl.obolibrary.org/obo/NCBITaxon_262724 #Thermus thermophilus HB27
+http://purl.obolibrary.org/obo/NCBITaxon_272624 #Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+http://purl.obolibrary.org/obo/NCBITaxon_28116 #Bacteroides ovatus
+http://purl.obolibrary.org/obo/NCBITaxon_29497 #Vibrio splendidus
+http://purl.obolibrary.org/obo/NCBITaxon_303 #Pseudomonas putida
+http://purl.obolibrary.org/obo/NCBITaxon_33910 #Amycolatopsis mediterranei
+http://purl.obolibrary.org/obo/NCBITaxon_342614 #Streptococcus agalactiae 515
+http://purl.obolibrary.org/obo/NCBITaxon_38313 #Shewanella haliotis
+http://purl.obolibrary.org/obo/NCBITaxon_383911 #Pseudoalteromonas sp. BSi20311
+http://purl.obolibrary.org/obo/NCBITaxon_405948 #Saccharopolyspora erythraea NRRL 2338
+http://purl.obolibrary.org/obo/NCBITaxon_438753 #Azorhizobium caulinodans ORS571
+http://purl.obolibrary.org/obo/NCBITaxon_45658 #Vibrio scophthalmi
+http://purl.obolibrary.org/obo/NCBITaxon_45888 #Vibrio cholerae O139
+http://purl.obolibrary.org/obo/NCBITaxon_47874 #Micromonospora rosaria
+http://purl.obolibrary.org/obo/NCBITaxon_496833 #Mycoplasma fermentans PG18
+http://purl.obolibrary.org/obo/NCBITaxon_504469 #Enterovibrio nigricans
+http://purl.obolibrary.org/obo/NCBITaxon_523796 #Staphylococcus aureus subsp. aureus ST398
+http://purl.obolibrary.org/obo/NCBITaxon_543886 #Saccharopolyspora endophytica
+http://purl.obolibrary.org/obo/NCBITaxon_554 #Pectobacterium carotovorum
+http://purl.obolibrary.org/obo/NCBITaxon_573 #Klebsiella pneumoniae
+http://purl.obolibrary.org/obo/NCBITaxon_584 #Proteus mirabilis
+http://purl.obolibrary.org/obo/NCBITaxon_585 #Proteus vulgaris
+http://purl.obolibrary.org/obo/NCBITaxon_587 #Providencia rettgeri
+http://purl.obolibrary.org/obo/NCBITaxon_663 #Vibrio alginolyticus
+http://purl.obolibrary.org/obo/NCBITaxon_666 #Vibrio cholerae
+http://purl.obolibrary.org/obo/NCBITaxon_670 #Vibrio parahaemolyticus
+http://purl.obolibrary.org/obo/NCBITaxon_676 #Vibrio fluvialis
+http://purl.obolibrary.org/obo/NCBITaxon_699033 #Clostridium difficile 2007855
+http://purl.obolibrary.org/obo/NCBITaxon_816 #Bacteroides
+http://purl.obolibrary.org/obo/NCBITaxon_817 #Bacteroides fragilis
+http://purl.obolibrary.org/obo/NCBITaxon_818 #Bacteroides thetaiotaomicron
+http://purl.obolibrary.org/obo/NCBITaxon_831 #Butyrivibrio fibrisolvens
+http://purl.obolibrary.org/obo/NCBITaxon_876138 #Streptococcus agalactiae FSL S3-026
+http://purl.obolibrary.org/obo/NCBITaxon_935547 #Mesorhizobium loti R7A
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/NCBITaxon_2 #Bacteria
+subClassOf http://purl.obolibrary.org/obo/OBI_0100026
+
+[Source term retrieval setting]
+includeAllIntermediates
+
+[Source annotation URIs]
+includeAllAxioms
+
+[Source annotation URIs to be excluded]

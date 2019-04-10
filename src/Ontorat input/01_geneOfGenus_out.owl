@@ -1,0 +1,1571 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/ontorat_0000001.owl#"
+     xml:base="http://purl.obolibrary.org/obo/ontorat_0000001.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/ontorat_0000001.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000179 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000179">
+        <rdfs:label>BFO OWL specification label</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000180 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000180">
+        <rdfs:label>BFO CLIF specification label</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111">
+        <rdfs:label>editor preferred term</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000112 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000112">
+        <rdfs:label>example of usage</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000114 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000114">
+        <rdfs:label>has curation status</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+        <rdfs:label>definition</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000116 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000116">
+        <rdfs:label>editor note</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000117 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000117">
+        <rdfs:label>term editor</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000118">
+        <rdfs:label>alternative term</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119">
+        <rdfs:label>definition source</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000232 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000232">
+        <rdfs:label>curator note</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000412 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000412">
+        <rdfs:label>imported from</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000424 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000424">
+        <rdfs:label>expand expression to</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000589 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000589">
+        <rdfs:label>OBO foundry unique label</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000600 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000600">
+        <rdfs:label>elucidation</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000601 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000601">
+        <rdfs:label>has associated axiom(nl)</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000602 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000602">
+        <rdfs:label>has associated axiom(fol)</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000024 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000024">
+        <rdfs:label>has oriTDB accession</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000026 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000026">
+        <rdfs:label>has ICEberg accession</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000028 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000028">
+        <rdfs:label>has SecReT4 accession</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000062 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000062">
+        <rdfs:label>has oriTDB hyperlink</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000063 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000063">
+        <rdfs:label>has ICEberg hyperlink</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000184 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000184">
+        <rdfs:label>protein reannotated role</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000290 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000290">
+        <rdfs:label>has_size</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000327 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000327">
+        <rdfs:label>chromosome ID of gene</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000328 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000328">
+        <rdfs:label>has PubMed association</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000329 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000329">
+        <rdfs:label>NCBI LocusTag</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000332 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000332">
+        <rdfs:label>type of gene</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000333 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000333">
+        <rdfs:label>nomenclature status</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000335 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000335">
+        <rdfs:label>species can be transferred to</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000336 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000336">
+        <rdfs:label>sequence status</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000337 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000337">
+        <rdfs:label>has NCBI GeneBank ID</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000338 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000338">
+        <rdfs:label>has GC content</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000339 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000339">
+        <rdfs:label>Genome coordinates</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000340 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000340">
+        <rdfs:label>confirmation status</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000341 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000341">
+        <rdfs:label>has interaction with IME</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000342 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000342">
+        <rdfs:label>has interaction with CIME</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ICEO_0000714 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ICEO_0000714">
+        <rdfs:label>insertion site</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_0000000015 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/OGG_0000000015">
+        <rdfs:label>organism NCBITaxon ID</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001900 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001900">
+        <rdfs:label>temporal interpretation</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002416 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002416">
+        <rdfs:label>logical macro assertion</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002421 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002421">
+        <rdfs:label>logical macro assertion on a property</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0002422 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002422">
+        <rdfs:label>logical macro assertion on an object property</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0004048 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0004048">
+        <rdfs:label>is directional form of</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0004049 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0004049">
+        <rdfs:label>is positive form of</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0004050 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0004050">
+        <rdfs:label>is negative form of</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ncbitaxon#has_rank -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/ncbitaxon#has_rank">
+        <rdfs:label>has_rank</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasAlternativeId -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasAlternativeId">
+        <rdfs:label>has_alternative_id</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasDbXref -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref">
+        <rdfs:label>database_cross_reference</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasExactSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym">
+        <rdfs:label>has_exact_synonym</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym">
+        <rdfs:label>has_narrow_synonym</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace">
+        <rdfs:label>has_obo_namespace</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym">
+        <rdfs:label>has_related_synonym</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#inSubset -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset">
+        <rdfs:label>in_subset</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#comment -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#label -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
+        <rdfs:label>label</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#seeAlso -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#seeAlso"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#Literal -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#float -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#float"/>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#integer -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#integer"/>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#nonNegativeInteger -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#nonNegativeInteger"/>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#string -->
+
+    <rdfs:Datatype rdf:about="http://www.w3.org/2001/XMLSchema#string"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_0000000016 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OGG_0000000016">
+        <rdfs:label>is gene of organism</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_122277 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_122277"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1279 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1279"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_12916 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_12916"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_12960 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_12960"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1301 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1301"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1350 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1350"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1357 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1357"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1386 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1386"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1485 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1485"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1637 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1637"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1813 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1813"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1835 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1835"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1873 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1873"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_188143 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_188143"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1883 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1883"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_209 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_209"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_2093 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_2093"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_210425 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_210425"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_22 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_22"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_270 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_270"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_286 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_286"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_308865 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_308865"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_444888 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_444888"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_445 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_445"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_48736 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_48736"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_517 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_517"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_53246 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_53246"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_561 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_561"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_570 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_570"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_586 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_586"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_590 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_590"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_6 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_6"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_657 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_657"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_662 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_662"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_68287 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_68287"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_713 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_713"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_724 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_724"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_745 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_745"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_75984 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_75984"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_80865 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_80865"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_816 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_816"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_830 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_830"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2000000002 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_122277 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_122277">
+        <rdfs:label>gene of Pectobacterium</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_122277"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>122277</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Pectobacterium</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1279 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1279">
+        <rdfs:label>gene of Staphylococcus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1279"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>1279</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Staphylococcus</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_12916 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_12916">
+        <rdfs:label>gene of Acidovorax</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_12916"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>12916</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Acidovorax</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_12960 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_12960">
+        <rdfs:label>gene of Azoarcus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_12960"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>12960</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Azoarcus</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1301 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1301">
+        <rdfs:label>gene of Streptococcus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1301"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Streptococcus</obo:IAO_0000115>
+        <obo:OGG_0000000015>1301</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1350 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1350">
+        <rdfs:label>gene of Enterococcus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1350"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>1350</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Enterococcus</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1357 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1357">
+        <rdfs:label>gene of Lactococcus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1357"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>1357</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Lactococcus</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1386 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1386">
+        <rdfs:label>gene of Bacillus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1386"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:OGG_0000000015>1386</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Bacillus</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1485 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1485">
+        <rdfs:label>gene of Clostridium</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1485"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Clostridium</obo:IAO_0000115>
+        <obo:OGG_0000000015>1485</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1637 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1637">
+        <rdfs:label>gene of Listeria</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1637"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Listeria</obo:IAO_0000115>
+        <obo:OGG_0000000015>1637</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1813 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1813">
+        <rdfs:label>gene of Amycolatopsis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1813"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:OGG_0000000015>1813</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Amycolatopsis</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1835 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1835">
+        <rdfs:label>gene of Saccharopolyspora</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1835"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Saccharopolyspora</obo:IAO_0000115>
+        <obo:OGG_0000000015>1835</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1873 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1873">
+        <rdfs:label>gene of Micromonospora</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1873"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>1873</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Micromonospora</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_188143 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_188143">
+        <rdfs:label>gene of Enterovibrio</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_188143"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>188143</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Enterovibrio</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_1883 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_1883">
+        <rdfs:label>gene of Streptomyces</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1883"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>1883</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Streptomyces</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_209 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_209">
+        <rdfs:label>gene of Helicobacter</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_209"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:OGG_0000000015>209</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Helicobacter</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_2093 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_2093">
+        <rdfs:label>gene of Mycoplasma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2093"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>2093</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Mycoplasma</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_210425 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_210425">
+        <rdfs:label>gene of Proteus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_210425"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Proteus</obo:IAO_0000115>
+        <obo:OGG_0000000015>210425</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_22 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_22">
+        <rdfs:label>gene of Shewanella</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_22"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Shewanella</obo:IAO_0000115>
+        <obo:OGG_0000000015>22</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_270 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_270">
+        <rdfs:label>gene of Thermus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_270"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>270</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Thermus</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_286 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_286">
+        <rdfs:label>gene of Pseudomonas</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_286"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Pseudomonas</obo:IAO_0000115>
+        <obo:OGG_0000000015>286</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_308865 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_308865">
+        <rdfs:label>gene of Elizabethkingia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_308865"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Elizabethkingia</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:OGG_0000000015>308865</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_444888 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_444888">
+        <rdfs:label>gene of Yersinia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_444888"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:OGG_0000000015>444888</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Yersinia</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_445 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_445">
+        <rdfs:label>gene of Legionella</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_445"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Legionella</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:OGG_0000000015>445</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_48736 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_48736">
+        <rdfs:label>gene of Ralstonia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_48736"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Ralstonia</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:OGG_0000000015>48736</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_517 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_517">
+        <rdfs:label>gene of Bordetella</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_517"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>517</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Bordetella</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_53246 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_53246">
+        <rdfs:label>gene of Pseudoalteromonas</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_53246"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Pseudoalteromonas</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:OGG_0000000015>53246</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_561 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_561">
+        <rdfs:label>gene of Escherichia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_561"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>561</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Escherichia</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_570 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_570">
+        <rdfs:label>gene of Klebsiella</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_570"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Klebsiella</obo:IAO_0000115>
+        <obo:OGG_0000000015>570</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_586 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_586">
+        <rdfs:label>gene of Providencia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_586"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>586</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Providencia</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_590 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_590">
+        <rdfs:label>gene of Salmonella</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_590"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>590</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Salmonella</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_6 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_6">
+        <rdfs:label>gene of Azorhizobium</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_6"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Azorhizobium</obo:IAO_0000115>
+        <obo:OGG_0000000015>6</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_657 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_657">
+        <rdfs:label>gene of Photobacterium</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_657"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>657</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Photobacterium</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_662 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_662">
+        <rdfs:label>gene of Vibrio</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_662"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Vibrio</obo:IAO_0000115>
+        <obo:OGG_0000000015>662</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_68287 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_68287">
+        <rdfs:label>gene of Mesorhizobium</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_68287"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Mesorhizobium</obo:IAO_0000115>
+        <obo:OGG_0000000015>68287</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_713 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_713">
+        <rdfs:label>gene of Actinobacillus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_713"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:OGG_0000000015>713</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Actinobacillus</obo:IAO_0000115>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_724 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_724">
+        <rdfs:label>gene of Haemophilus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_724"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Haemophilus</obo:IAO_0000115>
+        <obo:OGG_0000000015>724</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_745 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_745">
+        <rdfs:label>gene of Pasteurella</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_745"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Pasteurella</obo:IAO_0000115>
+        <obo:OGG_0000000015>745</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_75984 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_75984">
+        <rdfs:label>gene of Mannheimia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_75984"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:OGG_0000000015>75984</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Mannheimia</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_80865 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_80865">
+        <rdfs:label>gene of Delftia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_80865"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:IAO_0000115>A gene of an organism of Delftia</obo:IAO_0000115>
+        <obo:OGG_0000000015>80865</obo:OGG_0000000015>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_816 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_816">
+        <rdfs:label>gene of Bacteroides</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_816"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+        <obo:OGG_0000000015>816</obo:OGG_0000000015>
+        <obo:IAO_0000115>A gene of an organism of Bacteroides</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGG_2_830 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGG_2_830">
+        <rdfs:label>gene of Butyrivibrio</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGG_2000000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/OGG_0000000016"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_830"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>A gene of an organism of Butyrivibrio</obo:IAO_0000115>
+        <obo:OGG_0000000015>830</obo:OGG_0000000015>
+        <obo:IAO_0000117>Meng LIU (Mia), Oliver He</obo:IAO_0000117>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.1.2018) http://owlapi.sourceforge.net -->
+

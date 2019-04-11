@@ -3,11 +3,10 @@
 
 [Online URL of the target OWL file (RDF/XML format)]
 # Note: Local file won't be used by Ontorat for security reason.   
-http://ontorat.hegroup.org/examples/vo.owl
+
 
 [Online URL of the data file (Only Excel file (.xls, .xlsx) or tab-delimited text file (.txt)]
 # Note: Local file won't be used by Ontorat for security reason. 
-http://ontorat.hegroup.org/examples/eg1_data_file.xlsx
 
 
 Actual data starts from row: 2
@@ -16,13 +15,12 @@ Actual data starts from row: 2
 [New axioms will be used to]
 # Note: two options: 1. "generate new classes", 
 # or 2. "edit existing classes with term IDs defined in column A(or another letter)"
-#generate new classes
-edit existing classes with term IDs defined in column E
+edit existing classes with term IDs defined in column E  
   
 [Annotations]
 # Note: Use comma to separate annotations
-'label' "{$columnI}",
-'definition' "A gene of {$columnA} that has a RNA gene disposition", 
+'label' "tRNA gene of {$columnA}",
+'definition' "A gene of {$columnA} that has a tRNA gene disposition", 
 'organism NCBITaxon ID' "{$columnB}",
 'term editor' "Meng LIU (Mia), Oliver He"
 
@@ -35,17 +33,16 @@ edit existing classes with term IDs defined in column E
 <http://purl.obolibrary.org/obo/{$columnD}>,
 'has disposition at all times' some <http://purl.obolibrary.org/obo/{$columnF}>
 
-
 [Terms used to define anntoations, equivalent classes and superclasses]
 # Note: One line per term
 AnnotationProperty: 
+'label': <http://www.w3.org/2000/01/rdf-schema#label> 
 'definition': <http://purl.obolibrary.org/obo/IAO_0000115>
 'organism NCBITaxon ID': <http://purl.obolibrary.org/obo/OGG_0000000015>
 'term editor': <http://purl.obolibrary.org/obo/IAO_0000117>
-
-ObjectProperty: 
-'has disposition at all times': <http://purl.obolibrary.org/obo/BFO_0000162> 
-
+Class:
+ObjectProperty:
+'has disposition at all times': <http://purl.obolibrary.org/obo/BFO_0000162>
 DataProperty:
 
 [Term URIs start with]
@@ -54,6 +51,6 @@ http://purl.obolibrary.org/obo/
 
 [Auto-generated term ID]
 # Note: Prefix like "VO_", number of digits like "7", and start from like "1".
-Prefix: VO_
+Prefix: ICEO_
 Number of digits: 7
 Start from:  1

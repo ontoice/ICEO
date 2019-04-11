@@ -1,0 +1,20 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/ICEO/OGG-Bru_import_2.owl
+
+[Source ontology]
+OGG-Bru
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/OGG_3012137929 #accB
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/OGG_2060204722 #protein-coding gene of Brucella suis 1330
+subClassOf http://purl.obolibrary.org/obo/OGG_2000000234
+
+[Source term retrieval setting]
+includeAllIntermediates
+
+[Source annotation URIs]
+includeAllAxioms
+
+[Source annotation URIs to be excluded]

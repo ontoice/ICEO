@@ -17,13 +17,21 @@ Actual data starts from row: 2
 # Note: two options: 1. "generate new classes", 
 # or 2. "edit existing classes with term IDs defined in column A(or another letter)"
 #generate new classes
-edit existing classes with term IDs defined in column E
+edit existing classes with term IDs defined in column L
   
 [Annotations]
 # Note: Use comma to separate annotations
 'label' "{$columnI}",
-'definition' "A gene of {$columnA} that has a RNA gene disposition", 
-'organism NCBITaxon ID' "{$columnB}",
+'alternative term' "{$columnF}",
+'description' "{$columnH}",
+'definition source' "https://www.ncbi.nlm.nih.gov/nuccore/AP006725",
+'genome coordinates' "{$columnC}:{$columnB}",
+'chromosome ID of gene'  "-",
+'has PubMed association' "PMID: 19447910",
+'modification date' "20170510",
+'NCBI LocusTag' "{$columnG}",
+'organism NCBITaxon ID' "484021",
+'type of gene' "protein-coding",
 'term editor' "Meng LIU (Mia), Oliver He"
 
 [Equivalent classes]
@@ -32,19 +40,30 @@ edit existing classes with term IDs defined in column E
 
 [Superclasses]
 # Note: Use comma to separate classes 
-<http://purl.obolibrary.org/obo/{$columnD}>,
-'has disposition at all times' some <http://purl.obolibrary.org/obo/{$columnF}>
+## protein-coding gene of Klebsiella pneumoniae NTUH-K2044
+<http://purl.obolibrary.org/obo/OGG_206_484021>
+
 
 
 [Terms used to define anntoations, equivalent classes and superclasses]
 # Note: One line per term
 AnnotationProperty: 
+'alternative term': <http://purl.obolibrary.org/obo/IAO_0000118>
+'description': <http://purl.obolibrary.org/obo/>
+'definition source': <http://purl.obolibrary.org/obo/IAO_0000119>
+'genome coordinates': <http://purl.obolibrary.org/obo/ICEO_0000339>
+'chromosome ID of gene': <http://purl.obolibrary.org/obo/OGG_0000000017>
+'has PubMed association': <http://purl.obolibrary.org/obo/OGG_0000000030>
 'definition': <http://purl.obolibrary.org/obo/IAO_0000115>
+'definition': <http://purl.obolibrary.org/obo/IAO_0000115>
+'modification date': <http://purl.obolibrary.org/obo/OGG_0000000009>
+'NCBI LocusTag': <http://purl.obolibrary.org/obo/OGG_0000000007>
 'organism NCBITaxon ID': <http://purl.obolibrary.org/obo/OGG_0000000015>
+'type of gene': <http://purl.obolibrary.org/obo/OGG_0000000018>
 'term editor': <http://purl.obolibrary.org/obo/IAO_0000117>
 
 ObjectProperty: 
-'has disposition at all times': <http://purl.obolibrary.org/obo/BFO_0000162> 
+
 
 DataProperty:
 

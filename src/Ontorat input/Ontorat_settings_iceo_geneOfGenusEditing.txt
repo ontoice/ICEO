@@ -49,7 +49,7 @@ edit existing classes with term IDs defined in column L
 # Note: One line per term
 AnnotationProperty: 
 'alternative term': <http://purl.obolibrary.org/obo/IAO_0000118>
-'description': <http://purl.obolibrary.org/obo/>
+'description': <http://purl.org/dc/elements/1.1/description>
 'definition source': <http://purl.obolibrary.org/obo/IAO_0000119>
 'genome coordinates': <http://purl.obolibrary.org/obo/ICEO_0000339>
 'chromosome ID of gene': <http://purl.obolibrary.org/obo/OGG_0000000017>

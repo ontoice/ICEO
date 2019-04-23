@@ -1,0 +1,75 @@
+# This is the template for setting up the Ontorat input conditions. 
+# Any text after # is just for notes and won't be used by Ontorat.
+
+[Online URL of the target OWL file (RDF/XML format)]
+# Note: Local file won't be used by Ontorat for security reason.   
+http://ontorat.hegroup.org/examples/vo.owl
+
+[Online URL of the data file (Only Excel file (.xls, .xlsx) or tab-delimited text file (.txt)]
+# Note: Local file won't be used by Ontorat for security reason. 
+http://ontorat.hegroup.org/examples/eg1_data_file.xlsx
+
+
+Actual data starts from row: 2
+
+
+[New axioms will be used to]
+# Note: two options: 1. "generate new classes", 
+# or 2. "edit existing classes with term IDs defined in column A(or another letter)"
+edit existing classes with term IDs defined in column B
+  
+[Annotations]
+# Note: Use comma to separate annotations
+'genome coordinates' "{$columnC}",
+'GC content[Genome]' "{$columnD}",
+'has ICEBerg accession' "{$columnE}",
+'has ICEBerg hyperlink' "http://202.120.12.136/ICEberg2/feature_page.php?ice_id={$columnE}",
+'has NCBI GeneBank accession' "{$columnF}",
+'has size' "{$columnG} kb",
+'species can be transferred to' "{$columnI}",
+'insertion site' "{$columnH}",
+'confirmation status' "ICE with experimental support",
+'term editor' "Meng LIU (Mia), Oliver He"
+
+[Equivalent classes]
+# Note: Use comma to separate classes 
+
+
+[Superclasses]
+# Note: Use comma to separate classes 
+'has part' some <http://purl.obolibrary.org/obo/{$columnK}>,
+'has part' some <http://purl.obolibrary.org/obo/{$columnM}>,
+'has part' some <http://purl.obolibrary.org/obo/{$columnO}>,
+'has part' some <http://purl.obolibrary.org/obo/{$columnQ}>
+
+[Terms used to define anntoations, equivalent classes and superclasses]
+# Note: One line per term
+AnnotationProperty: 
+'confirmation status': <http://purl.obolibrary.org/obo/ICEO_0000340>
+'genome coordinates': <http://purl.obolibrary.org/obo/ICEO_0000339>
+'GC content[Genome]': <http://purl.obolibrary.org/obo/ICEO_0000338>
+'has ICEBerg accession': <http://purl.obolibrary.org/obo/ICEO_0000026>
+'has ICEBerg hyperlink': <http://purl.obolibrary.org/obo/ICEO_0000063>
+'has interaction with IME': <http://purl.obolibrary.org/obo/ICEO_0000341>
+'has interaction with CIME': <http://purl.obolibrary.org/obo/ICEO_0000342>
+'has NCBI GeneBank accession': <http://purl.obolibrary.org/obo/ICEO_0000337>
+'has PubMed association': <http://purl.obolibrary.org/obo/ICEO_0000328>
+'has size': <http://purl.obolibrary.org/obo/ICEO_0000290>
+'sequence status': <http://purl.obolibrary.org/obo/ICEO_0000336>
+'species can be transferred to': <http://purl.obolibrary.org/obo/ICEO_0000335>
+'insertion site': <http://purl.obolibrary.org/obo/ICEO_0000714>
+'term editor': <http://purl.obolibrary.org/obo/IAO_0000117>
+ObjectProperty: 
+'has part': <http://purl.obolibrary.org/obo/BFO_0000051> 
+
+DataProperty:
+
+[Term URIs start with]
+# Note: provide a prefix ontology URIs
+http://purl.obolibrary.org/obo/
+
+[Auto-generated term ID]
+# Note: Prefix like "VO_", number of digits like "7", and start from like "1".
+Prefix: VO_
+Number of digits: 7
+Start from:  1

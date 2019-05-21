@@ -1,0 +1,19 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/iceo/OBI_import.owl.
+
+[Source ontology]
+OBI
+
+[Low level source term URIs]
+http://purl.org/dc/terms/license
+
+[Top level source term URIs and target direct superclass URIs]
+
+
+[Source term retrieval setting]
+includeNoIntermediates
+
+[Source annotation URIs]
+includeAllAxioms
+
+[Source annotation URIs to be excluded]

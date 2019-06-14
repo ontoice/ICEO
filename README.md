@@ -1,5 +1,7 @@
 # ICEO
-A biological ontology to standardize and integrate integrative and conjugative element (ICE) information and to support computer-assisted reasoning.
+A biological ontology to represent, standardize, and integrate bacterial integrative and conjugative elements (ICEs) and to support computer-assisted reasoning.
+
+The integrative and conjugative elements (ICEs) are modular mobile genetic elements that are integrated into a host genome and are passively propagated during chromosomal replication and cell division. We generated an ICE database called ICEberg (http://db-mml.sjtu.edu.cn/ICEberg/). The ICEO is developed to first systematically represent the ICE information collected in the database. The ICEO will also be further used to enhance the ICEberg and support various applications.   
 
 [This GitHub website](https://github.com/ontoice/ICEO) is the home page of ICEO.
 

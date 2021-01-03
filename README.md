@@ -13,6 +13,7 @@ Use the following URI to download this ontology
 Note that the source ontology is an OWL file.
 
 ## Browsing
+- OBO Foundry Library: http://obofoundry.org/ontology/iceo
 - Default browsing in Ontobee: http://www.ontobee.org/ontology/ICEO
 - Browsing in NCBO BioPortal: https://bioportal.bioontology.org/ontologies/ICEO
 

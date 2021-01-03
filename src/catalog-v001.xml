@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="file:/D:/File/MyNutStore/Ontology/Ontology_umich/ICEO/ICEO_for_GPB/ICE-Kp/ICEfinder/OntoratFile/00_strainNoNCBITaxonTerm255_nonRedundant_out.owl"/>
+    <uri id="Imports Wizard Entry" name="http://ontofox.hegroup.org/9259jv8s.owl" uri="file:/D:/File/MyNutStore/Ontology/Ontology_umich/ICEO/ontofox_ICEO/ontofox_ICEO_forbak/NCBITaxon_imported_output_20210102.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/iceo/BFO_import_20190709.owl" uri="file:/C:/files/Ontology/Ontology_umich/ICEO/ontofox_ICEO/BFO_import_20190709.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/iceo/GO_import.owl" uri="file:/C:/files/Ontology/Ontology_umich/ICEO/ontofox_ICEO/GO_import_20190704.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/iceo/SIO_import_20190703.owl" uri="file:/C:/files/Ontology/Ontology_umich/ICEO/ontofox_ICEO/SIO_import_20190703.owl"/>
@@ -40,27 +42,30 @@
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ICEO/RO_import.owl" uri="imports/RO_import.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ICEO/RO_import.owl" uri="imports/RO_imports.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/2019/1/ICEO/" uri="iceo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/2019/1/ICEO/" uri="iceo_merged.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="http://purl.obolibrary.org/obo/ICEO/BFO_import.owl" uri="imports/BFO_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="http://purl.obolibrary.org/obo/ICEO/NCBITaxon_import.owl" uri="imports/NCBITaxon_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="http://purl.obolibrary.org/obo/ICEO/NCBITaxon_import_2.owl" uri="imports/NCBITaxon_import_2.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="http://purl.obolibrary.org/obo/ICEO/OGG-Bru_import_2.owl" uri="imports/OGG-Bru_import_2.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="http://purl.obolibrary.org/obo/ICEO/OGG_Bru_import.owl" uri="imports/OGG-Bru_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="http://purl.obolibrary.org/obo/ICEO/PR_import.owl" uri="imports/PR_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="http://purl.obolibrary.org/obo/ICEO/RO_import.owl" uri="imports/RO_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="http://purl.obolibrary.org/obo/iceo/OBI_import.owl." uri="imports/OBI_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="http://purl.obolibrary.org/obo/iceo/OGG-Bru_import.owl." uri="imports/OGG-Bru_import_3.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/01_geneOfGenus_out.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/02_geneOfStrain_withNCBITaxonID_out.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/03_ProteinCodingGeneOfStrain_withNCBITaxonID_out.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/04_RNAGeneOfStrain_withNCBITaxonID_out.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/05_tRNAGeneOfStrain_withNCBITaxonID_out.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/07_PCG_withNCBITaxon_withGI_out_19ICE.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/07_PCG_withNCBITaxon_withGI_out_19ICE_S2.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/07_PCG_withNCBITaxon_withLocusTag_out_35ICE.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/07_PCG_withNCBITaxon_withLocusTag_out_9ICE.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="duplicate:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/08_ICEModuleTerm_out.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1568210203774" name="http://purl.obolibrary.org/obo/ontorat_0000001.owl/" uri="imports/Ontorat_out/09_ICETermEdit_out.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="duplicate:http://purl.obolibrary.org/obo/2019/1/ICEO/" uri="iceo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="duplicate:http://purl.obolibrary.org/obo/2019/1/ICEO/" uri="iceo_kp.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="duplicate:http://purl.obolibrary.org/obo/2019/1/ICEO/" uri="iceo_kp_merged.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="duplicate:http://purl.obolibrary.org/obo/2019/1/ICEO/" uri="iceo_merged.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/ICEO/BFO_import.owl" uri="imports/BFO_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/ICEO/NCBITaxon_import.owl" uri="imports/NCBITaxon_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/ICEO/NCBITaxon_import_2.owl" uri="imports/NCBITaxon_import_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/ICEO/OGG-Bru_import_2.owl" uri="imports/OGG-Bru_import_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/ICEO/OGG_Bru_import.owl" uri="imports/OGG-Bru_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/ICEO/PR_import.owl" uri="imports/PR_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/ICEO/RO_import.owl" uri="imports/RO_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/iceo/OBI_import.owl." uri="imports/OBI_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/iceo/OGG-Bru_import.owl." uri="imports/OGG-Bru_import_3.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="iceo_kp_merged_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="http://purl.obolibrary.org/obo/ontorat_0000001.owl/" uri="imports/Ontorat_out/09_ICETermEdit_out.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/01_geneOfGenus_out.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/02_geneOfStrain_withNCBITaxonID_out.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/03_ProteinCodingGeneOfStrain_withNCBITaxonID_out.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/04_RNAGeneOfStrain_withNCBITaxonID_out.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/05_tRNAGeneOfStrain_withNCBITaxonID_out.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/07_PCG_withNCBITaxon_withGI_out_19ICE.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/07_PCG_withNCBITaxon_withGI_out_19ICE_S2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/07_PCG_withNCBITaxon_withLocusTag_out_35ICE.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/07_PCG_withNCBITaxon_withLocusTag_out_9ICE.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1609671911220" name="shadowed:http://purl.obolibrary.org/obo/ontorat_0000001.owl" uri="imports/Ontorat_out/08_ICEModuleTerm_out.owl"/>
     </group>
 </catalog>

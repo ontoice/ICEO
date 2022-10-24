@@ -19,5 +19,6 @@ Note that the source ontology is an OWL file.
 - Browsing in OLS (Ontology Lookup Service) website: https://www.ebi.ac.uk/ols/ontologies/iceo
 
 ## Publication
-- Meng Liu, Hong-Yu Ou and Yongqun He. ICEO: a biological ontology for representing and analyzing the bacterial integrative and conjugative element. The 10th International Conference on Biomedical Ontology (ICBO-2019), July 30-August 2, 2019, at Buffalo, NY, USA. Full length paper.  
 - Meng Liu#, Jialin Liu#, Guitian Liu, Hui Wang, Xiaoli Wang, Zixin Deng, Yongqun He, Hong-Yu Ou. ICEO, a biological ontology for representing and analyzing the bacterial integrative and conjugative element. Scientific Data, 2022, 9(1):11.
+- Meng Liu, Hong-Yu Ou and Yongqun He. ICEO: a biological ontology for representing and analyzing the bacterial integrative and conjugative element. The 10th International Conference on Biomedical Ontology (ICBO-2019), July 30-August 2, 2019, at Buffalo, NY, USA. Full length paper.  
+
